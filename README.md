@@ -21,3 +21,4 @@ Can you beat your high score?
 1.Simon.html
 2.Simon.css
 3.simon.js
+4.README.md
